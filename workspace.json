@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust-for-rustaceans/doc/INTRODUCTOON.md",
+                "file": "rust-for-rustaceans/doc/PREFACE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "INTRODUCTOON"
+              "title": "PREFACE"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "6ef22a9f7a2b9e04",
   "lastOpenFiles": [
+    "rust-for-rustaceans/doc/INTRODUCTOON.md",
     "rust-for-rustaceans/doc/chap-01-Foundations.md",
     "Common Syllable Prounciation.md",
     "paper/arxiv_orion.blg",
@@ -233,7 +234,6 @@
     "orion/docs/architecture.md",
     "staged_diskann/README.md",
     "ParlayANN/README.md",
-    "ParlayANN/parlaylib/test/README.md",
     "Untitled.canvas"
   ]
 }

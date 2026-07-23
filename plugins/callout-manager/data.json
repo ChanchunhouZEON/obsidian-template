@@ -9,7 +9,10 @@
       "requirement",
       "reason",
       "default",
-      "forbidden"
+      "forbidden",
+      "word",
+      "phrase",
+      "sentence"
     ],
     "settings": {
       "abstract": [
@@ -214,6 +217,30 @@
           },
           "changes": {
             "color": "235, 94, 40"
+          }
+        }
+      ],
+      "word": [
+        {
+          "changes": {
+            "icon": "lucide-book-a",
+            "color": "255, 200, 221"
+          }
+        }
+      ],
+      "phrase": [
+        {
+          "changes": {
+            "icon": "lucide-book-check",
+            "color": "189, 224, 254"
+          }
+        }
+      ],
+      "sentence": [
+        {
+          "changes": {
+            "icon": "lucide-book-marked",
+            "color": "252, 246, 189"
           }
         }
       ]
