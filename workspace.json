@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "27ed88694f12f548",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbb41f50a0f0e2d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef22a9f7a2b9e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust-for-rustaceans/doc/INTRODUCTOON.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUCTOON"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2ab16d5ab54539",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7de1f1acf23727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8e9b24be97abba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8515eaf3ea2757e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MF",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c3cc4520a4950528",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5024719238281
+  },
+  "right": {
+    "id": "c89e8b9bc7ae122a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7f1b532b2c16a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa09d601cea1644",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "doc/amd64/vol2/chap-08-Exceptions and Interrupt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for chap-08-Exceptions and Interrupt"
+            }
+          },
+          {
+            "id": "1523158e6ab9e353",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "doc/amd64/vol2/chap-08-Exceptions and Interrupt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from chap-08-Exceptions and Interrupt"
+            }
+          },
+          {
+            "id": "21392c53fbe713ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63f1ccbcf1b19f12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "staged_diskann/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "9de76c681b4029e8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "6ef22a9f7a2b9e04",
+  "lastOpenFiles": [
+    "rust-for-rustaceans/doc/chap-01-Foundations.md",
+    "Common Syllable Prounciation.md",
+    "paper/arxiv_orion.blg",
+    "paper/arxiv_orion.bbl",
+    "paper/sigmod_orion.bbl",
+    "paper/sigmod_orion.blg",
+    "paper/pdflatex67279.fls",
+    "paper/sigmod_orion.synctex.gz",
+    "paper/sigmod_orion.synctex(busy)",
+    "paper/pdflatex63075.fls",
+    "paper/sigmod_orion.out",
+    "paper/sigmod_orion.pdf",
+    "paper/figures/x86_glove25_crossplatform.png",
+    "orion/README.md",
+    "orion-anonymous/README.md",
+    "orion/docs/optimizations.md",
+    "ParlayANN-anonymous/parlaylib/benchmark/README.md",
+    "ParlayANN-anonymous/parlaylib/analysis/README.md",
+    "ParlayANN-anonymous/parlaylib/test/README.md",
+    "ParlayANN-anonymous/parlaylib/examples/README.md",
+    "ParlayANN-anonymous/parlaylib/README.md",
+    "ParlayANN-anonymous/docs/rangesearch.md",
+    "ParlayANN-anonymous/docs/quickstart.md",
+    "ParlayANN-anonymous/docs/data_tools.md",
+    "ParlayANN-anonymous/docs/algorithms.md",
+    "ParlayANN-anonymous/docs/README.md",
+    "ParlayANN-anonymous/README.md",
+    "orion-anonymous/visualizations/thread_scaling.png",
+    "orion-anonymous/visualizations/qps_recall_sift_all3.png",
+    "orion-anonymous/visualizations/qps_recall_msmarco_bert_1M_all3.png",
+    "orion-anonymous/visualizations/qps_recall_glove25_all3.png",
+    "orion-anonymous/visualizations/qps_recall_glove100_all3.png",
+    "orion-anonymous/visualizations/qps_recall_gist_all3.png",
+    "orion-anonymous/visualizations/qps_recall_full.png",
+    "orion-anonymous/visualizations/qps_recall_deep10m_all3.png",
+    "orion-anonymous/visualizations/memory_analysis.png",
+    "orion-anonymous/docs/optimizations.md",
+    "orion-anonymous/docs/configuration.md",
+    "orion-anonymous/docs/code-structure.md",
+    "orion-anonymous/docs/architecture.md",
+    "orion/docs/configuration.md",
+    "orion/docs/code-structure.md",
+    "orion/docs/architecture.md",
+    "staged_diskann/README.md",
+    "ParlayANN/README.md",
+    "ParlayANN/parlaylib/test/README.md",
+    "Untitled.canvas"
+  ]
+}

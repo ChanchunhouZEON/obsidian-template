@@ -1,0 +1,227 @@
+{
+  "callouts": {
+    "custom": [
+      "exception",
+      "procedure",
+      "calender",
+      "definition",
+      "cons",
+      "requirement",
+      "reason",
+      "default",
+      "forbidden"
+    ],
+    "settings": {
+      "abstract": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "exception": [
+        {
+          "changes": {
+            "icon": "lucide-zap"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "251, 70, 76"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 70, 76"
+          }
+        }
+      ],
+      "procedure": [
+        {
+          "changes": {
+            "icon": "lucide-step-forward"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "254, 157, 187"
+          }
+        }
+      ],
+      "calender": [
+        {
+          "changes": {
+            "icon": "lucide-calendar-search"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "definition": [
+        {
+          "changes": {
+            "icon": "lucide-flag"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "212, 224, 155"
+          }
+        }
+      ],
+      "cons": [
+        {
+          "changes": {
+            "icon": "lucide-badge-x"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "requirement": [
+        {
+          "changes": {
+            "icon": "lucide-aperture"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "212, 223, 155"
+          }
+        }
+      ],
+      "reason": [
+        {
+          "changes": {
+            "icon": "lucide-bolt"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "252, 246, 189"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "252, 246, 189"
+          }
+        }
+      ],
+      "default": [
+        {
+          "changes": {
+            "icon": "lucide-atom",
+            "color": "235, 94, 40"
+          }
+        }
+      ],
+      "forbidden": [
+        {
+          "changes": {
+            "icon": "lucide-alert-octagon"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "235, 94, 40"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "235, 94, 40"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
