@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bbb41f50a0f0e2d3",
+        "id": "cd2bb271e966cb91",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef22a9f7a2b9e04",
+            "id": "5545722caf614ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust-for-rustaceans/doc/PREFACE.md",
+                "file": "Chapter 1: A Pragmatic Philosophy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PREFACE"
+              "title": "Chapter 1: A Pragmatic Philosophy"
             }
           }
         ]
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -143,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "staged_diskann/README.md",
+                "file": "doc/amd64/vol2/chap-15-Secure-Virtual-Machine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "chap-15-Secure-Virtual-Machine 的大纲"
             }
           },
           {
@@ -158,8 +160,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -172,8 +174,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -186,10 +188,38 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "6ef22a9f7a2b9e04",
+  "active": "5545722caf614ed8",
   "lastOpenFiles": [
-    "rust-for-rustaceans/doc/INTRODUCTOON.md",
-    "rust-for-rustaceans/doc/chap-01-Foundations.md",
+    "doc/amd64/vol2/chap-01-Overview.md",
+    "doc/amd64/vol2/chap-03-System Resources.md",
+    "doc/amd64/vol2/chap-15-Secure-Virtual-Machine.md",
+    "Callout blocks along with corresponding highlight color.md",
+    "doc/amd64/vol2/chap-14-Processor Initialization and Long Mode Activation-2.md",
+    "doc/amd64/vol2/chap-14-Processor Initialization and Long Mode Activation-1.md",
+    "doc/amd64/vol2/chap-13-Software Debug and Performance Resources-1.md",
+    "doc/amd64/vol2/chap-13-Software Debug and Performance Resources-3.md",
+    "doc/amd64/vol2/chap-13-Software Debug and Performance Resources-2.md",
+    "doc/amd64/vol2/chap-04-Segmented Virtual Memory.md",
+    "doc/amd64/vol2/chap-09-Machine Check Architecture.md",
+    "doc/amd64/vol2/chap-08-Exceptions and Interrupt.md",
+    "doc/amd64/vol2/chap-06-System-Management Instructions.md",
+    "\"Section 13.1.3.6\".md",
+    "image/amd64/vol2/chap-13/xsave-area-for-lwp.png",
+    "image/amd64/vol2/chap-13/time-stamp-counter-(TSC).png",
+    "image/amd64/vol2/chap-13/programmed-value-sample-event-record.png",
+    "image/amd64/vol2/chap-13/programmed-event-record.png",
+    "image/amd64/vol2/chap-13/performance-counter-global-status-set-register-(PerfCntGlobalStatusSet).png",
+    "image/amd64/vol2/chap-13/performance-counter-global-status-register-(PerfCntGlobalStatus).png",
+    "image/amd64/vol2/chap-13/performance-counter-global-status-clear-register-(PerfCntGlobalStatusClr).png",
+    "image/amd64/vol2/chap-13/performance-counter-global-control-(PerfCntGlobalCtl).png",
+    "image/amd64/vol2/chap-13/performance-counter-format.png",
+    "image/amd64/vol2/chap-13/northbridge-performance-event-select-register-(NB_PerfEvtSeln).png",
+    "image/amd64/vol2/chap-13",
+    "未命名 1.md",
+    "doc/amd64/vol2/chap-10-System-Management Mode.md",
+    "未命名.md",
+    "doc/amd64/vol2/chap-05-Page Translation and Protection.md",
+    "doc/amd64/vol2/chap-12-Task Management.md",
     "Common Syllable Prounciation.md",
     "paper/arxiv_orion.blg",
     "paper/arxiv_orion.bbl",
@@ -200,40 +230,12 @@
     "paper/sigmod_orion.synctex(busy)",
     "paper/pdflatex63075.fls",
     "paper/sigmod_orion.out",
-    "paper/sigmod_orion.pdf",
-    "paper/figures/x86_glove25_crossplatform.png",
     "orion/README.md",
     "orion-anonymous/README.md",
     "orion/docs/optimizations.md",
     "ParlayANN-anonymous/parlaylib/benchmark/README.md",
     "ParlayANN-anonymous/parlaylib/analysis/README.md",
     "ParlayANN-anonymous/parlaylib/test/README.md",
-    "ParlayANN-anonymous/parlaylib/examples/README.md",
-    "ParlayANN-anonymous/parlaylib/README.md",
-    "ParlayANN-anonymous/docs/rangesearch.md",
-    "ParlayANN-anonymous/docs/quickstart.md",
-    "ParlayANN-anonymous/docs/data_tools.md",
-    "ParlayANN-anonymous/docs/algorithms.md",
-    "ParlayANN-anonymous/docs/README.md",
-    "ParlayANN-anonymous/README.md",
-    "orion-anonymous/visualizations/thread_scaling.png",
-    "orion-anonymous/visualizations/qps_recall_sift_all3.png",
-    "orion-anonymous/visualizations/qps_recall_msmarco_bert_1M_all3.png",
-    "orion-anonymous/visualizations/qps_recall_glove25_all3.png",
-    "orion-anonymous/visualizations/qps_recall_glove100_all3.png",
-    "orion-anonymous/visualizations/qps_recall_gist_all3.png",
-    "orion-anonymous/visualizations/qps_recall_full.png",
-    "orion-anonymous/visualizations/qps_recall_deep10m_all3.png",
-    "orion-anonymous/visualizations/memory_analysis.png",
-    "orion-anonymous/docs/optimizations.md",
-    "orion-anonymous/docs/configuration.md",
-    "orion-anonymous/docs/code-structure.md",
-    "orion-anonymous/docs/architecture.md",
-    "orion/docs/configuration.md",
-    "orion/docs/code-structure.md",
-    "orion/docs/architecture.md",
-    "staged_diskann/README.md",
-    "ParlayANN/README.md",
     "Untitled.canvas"
   ]
 }
