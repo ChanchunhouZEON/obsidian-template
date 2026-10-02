@@ -4,7 +4,7 @@
   "textFontFamily": "SauceCodePro Nerd Font Mono",
   "monospaceFontFamily": "SauceCodePro Nerd Font Mono",
   "baseFontSize": 16,
-  "theme": "obsidian",
+  "theme": "system",
   "cssTheme": "Minimal",
   "translucency": true
 }
