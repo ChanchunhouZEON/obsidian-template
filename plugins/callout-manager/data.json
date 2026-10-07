@@ -13,8 +13,7 @@
       "word",
       "phrase",
       "sentence",
-      "idiom",
-      "usage"
+      "idiom"
     ],
     "settings": {
       "abstract": [
@@ -233,7 +232,7 @@
       "phrase": [
         {
           "changes": {
-            "icon": "lucide-book-check",
+            "icon": "lucide-book-type",
             "color": "189, 224, 254"
           }
         }
@@ -251,14 +250,6 @@
           "changes": {
             "icon": "lucide-book-open-text",
             "color": "255, 243, 176"
-          }
-        }
-      ],
-      "usage": [
-        {
-          "changes": {
-            "icon": "lucide-hammer",
-            "color": "240, 234, 220"
           }
         }
       ]
